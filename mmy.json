@@ -1,0 +1,17 @@
+[
+  {
+    "name":"Pixel 3",
+    "price":27700,
+    "description":"the most newest Google phone"
+  },
+  {
+    "name":"Chromcast",
+    "price":1500,
+    "description":"in Big monitor to play favorite video"
+  },
+  {
+    "name":"Pixel Book",
+    "price":12000,
+    "description":"the most newest Chromebook production"
+  }
+]
